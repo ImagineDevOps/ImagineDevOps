@@ -31,20 +31,13 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
 
-<p align="center">
-  <img width="92" src="" />
-</p>  
-<h2 align="center">Welcome Message!</h2>
-
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
-
+<p align="center">
+  <img width="92" src="" />
+</p>  
+<h2 align="center">Welcome Message!</h2>
