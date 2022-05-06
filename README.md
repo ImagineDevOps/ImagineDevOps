@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
-
 <p align="center">
   <img width="92" src="" />
 </p>  
