@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
-
-
 <p align="center">
-  <img width="92" src="" />
+  <img width="92" src="logo.png" />
 </p>  
 <h2 align="center">Welcome Message!</h2>
