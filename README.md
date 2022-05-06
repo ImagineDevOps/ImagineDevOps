@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=ImagineStudio+Full-Stack+Developers.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
+  <img width="92" src="" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Shin!</h2>
+<h2 align="center">Welcome Message!</h2>
 
 
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
